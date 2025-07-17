@@ -32,6 +32,6 @@ This project uses a trained **Linear Regression model** (stored as a `.pkl` file
 | Backend     | Python, Flask  |
 | ML Model    | Scikit-learn   |
 | Frontend    | HTML, CSS (via Flask templates) |
-| Deployment  | Localhost / Heroku / Render (Optional) |
+| Deployment  | Localhost / Render |
 
 ---
